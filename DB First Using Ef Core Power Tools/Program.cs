@@ -7,7 +7,7 @@ namespace DB_First_Using_Ef_Core_Power_Tools
     {
         static void Main()
         {
-            using NorthwindDbContext context = new NorthwindDbContext();
+            //using NorthwindDbContext context = new NorthwindDbContext();
 
             //var result = context.Categories.ToList();
 
